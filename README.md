@@ -26,7 +26,8 @@ To design and develop a Library Management System using software engineering con
 ## DIAGRAMS:
 
 ## USE CASE DIAGRAM
-![Uploading image.png…]()
+<img width="654" height="499" alt="image" src="https://github.com/user-attachments/assets/d3824b44-a7a2-4009-8fcc-84171e85301e" />
+
 
 
 
